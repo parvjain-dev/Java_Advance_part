@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"hashset","l":"hashset()","u":"%3Cinit%3E()"},{"p":"com.company","c":"hashset","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
